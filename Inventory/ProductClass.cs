@@ -42,7 +42,7 @@ namespace Inventory
             {
                 this._Category = value;
             }
-        }
+        } 
         public string manufacturingDate
         {
             get
